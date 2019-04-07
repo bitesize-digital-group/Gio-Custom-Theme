@@ -1,0 +1,24 @@
+@media (max-width: 575.98px) {
+	.buyete-logo {
+		left: 20px;
+		top: 12px;
+	}
+
+	.navbar {
+		background-color: #002679;
+	}
+
+	.contact-top-info {
+		font-size: 10px;
+	}
+}
+
+@media (max-width: 991.98px) {
+
+}
+
+@media (max-width: 1024px) { 
+  .ddSearch .dropdown-menu {
+	  left: -12em !important;
+	}
+}
